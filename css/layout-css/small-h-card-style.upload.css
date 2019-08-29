@@ -2,6 +2,10 @@
   pointer-events: none;
 }
 
+.mode-interact .fl-widget-instance {
+  min-height: 32px;
+}
+
 .lock {
   overflow: hidden !important;
 }
